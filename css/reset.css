@@ -73,7 +73,7 @@ input, textarea {
     zoom:1;
 }
 
-#wrap {
+div {
     width: 960px;
     text-align: center;
 }
