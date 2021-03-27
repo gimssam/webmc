@@ -76,6 +76,7 @@ input, textarea {
 div {
     width: 960px;
     text-align: center;
+    background: #f00;
 }
 
 
