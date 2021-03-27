@@ -72,3 +72,7 @@ input, textarea {
 .clear_both {
     zoom:1;
 }
+
+#wrap {
+    width: 960px;
+    text-align: center;
